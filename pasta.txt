@@ -10,3 +10,4 @@ Chicken
 Salt
 Pepper
 Butter
+Seasoning
